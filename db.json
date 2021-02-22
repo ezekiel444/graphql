@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "lucky",
+      "age": 23,
+      "email": "lucky@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "sarah",
+      "age": 20,
+      "email": "john@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "mark",
+      "age": 32,
+      "email": "mark@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "love",
+      "age": 19,
+      "email": "love@gmail.com"
+    },
+    {
+      "name": "maluma",
+      "age": 44,
+      "email": "maluma@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "john",
+      "age": 18,
+      "email": "myfriend@gmail.com",
+      "id": 6
+    }
+  ]
+}
